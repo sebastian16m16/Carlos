@@ -1,0 +1,10 @@
+D:\altele\Programare\C#\Carlos\Carlos\bin\Debug\Carlos.exe.config
+D:\altele\Programare\C#\Carlos\Carlos\bin\Debug\Carlos.exe
+D:\altele\Programare\C#\Carlos\Carlos\bin\Debug\Carlos.pdb
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.csprojAssemblyReference.cache
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.Form1.resources
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.Properties.Resources.resources
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.csproj.GenerateResource.cache
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.csproj.CoreCompileInputs.cache
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.exe
+D:\altele\Programare\C#\Carlos\Carlos\obj\Debug\Carlos.pdb
