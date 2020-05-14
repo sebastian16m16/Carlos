@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Logic\PersonListManagement.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\PersonSTATE.cs" />
     <Compile Include="Models\STATE.cs" />
     <Compile Include="Models\Team.cs" />
     <Compile Include="Program.cs" />
